@@ -15,5 +15,5 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-              cd TestRepo
+              cd ~/apaul/web-template
               git pull
