@@ -1,15 +1,8 @@
 # cmsc388T-web-template
 
-## Color Family
-Light yellow: #FAF8D4
+Github Pages Link: https://alexishp80.github.io/CMSC389T-Web-Template/
+Terpconnect Link: https://terpconnect.umd.edu/~apaul127/CMSC389T-Web-Template/
 
-Almond: #EBDCCB
-
-Dun: #C3BAAA
-
-Taupe Gray: #91818A
-
-Rose quartz: #B2A3B5
-
-## CSS
-.img -> where you can adjust image size
+### Custom Changes
+ - Changed color palette to seafoam 
+ - Changed orientation of experience
