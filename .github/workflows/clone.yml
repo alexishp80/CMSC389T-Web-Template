@@ -15,4 +15,6 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
               cd ../pub
-              git clone https://github.com/alexishp80/CMSC389T-Web-Template
+              mkdir apaul127
+              cd apaul127
+              touch test.txt
