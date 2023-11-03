@@ -1,6 +1,8 @@
 name: Docker-Testing
 
-on: [workflow_dispatch]
+on: 
+  push:
+    branches: [main]
 
 jobs:
   build-website:
