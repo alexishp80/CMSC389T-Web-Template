@@ -15,8 +15,3 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-              1
-              cd ../pub
-              mkdir apaul127
-              cd apaul127
-              touch test.txt
